@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HChanDev and I'm a Salesforce Consultant and Solution Architect
+- 👋 Hi, I’m @HChanDev and I'm a Salesforce Consultant
 - 👀 I’m interested in learning more about Salesforce Programmatic Language
 - 🌱 I’m currently learning Apex
 - 💞️ I’m looking to collaborate on ideas
